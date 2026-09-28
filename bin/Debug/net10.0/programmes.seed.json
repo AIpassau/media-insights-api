@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "de": "Morgenmagazin",
+    "en": "Morning Magazine",
+    "medium": "TV",
+    "categoryDe": "Nachrichten",
+    "categoryEn": "News",
+    "daily": [
+      104000,
+      108000,
+      111000,
+      114000,
+      119000,
+      121000
+    ]
+  },
+  {
+    "id": 2,
+    "de": "Wissenschaft heute",
+    "en": "Science Today",
+    "medium": "Radio",
+    "categoryDe": "Wissen",
+    "categoryEn": "Science",
+    "daily": [
+      38000,
+      41000,
+      43000,
+      42000,
+      46000,
+      48000
+    ]
+  },
+  {
+    "id": 3,
+    "de": "Film am Abend",
+    "en": "Evening Film",
+    "medium": "TV",
+    "categoryDe": "Unterhaltung",
+    "categoryEn": "Entertainment",
+    "daily": [
+      82000,
+      86000,
+      83000,
+      90000,
+      88000,
+      94000
+    ]
+  },
+  {
+    "id": 4,
+    "de": "Technologie kompakt",
+    "en": "Technology Briefing",
+    "medium": "Podcast",
+    "categoryDe": "Wissen",
+    "categoryEn": "Science",
+    "daily": [
+      28000,
+      30000,
+      32000,
+      33000,
+      35000,
+      38000
+    ]
+  },
+  {
+    "id": 5,
+    "de": "Stadtgespräch",
+    "en": "City Conversations",
+    "medium": "Radio",
+    "categoryDe": "Gesellschaft",
+    "categoryEn": "Society",
+    "daily": [
+      46000,
+      47000,
+      49000,
+      48000,
+      51000,
+      54000
+    ]
+  },
+  {
+    "id": 6,
+    "de": "Welt im Blick",
+    "en": "World in Focus",
+    "medium": "TV",
+    "categoryDe": "Nachrichten",
+    "categoryEn": "News",
+    "daily": [
+      71000,
+      74000,
+      79000,
+      81000,
+      84000,
+      87000
+    ]
+  },
+  {
+    "id": 7,
+    "de": "Neue Perspektiven",
+    "en": "New Perspectives",
+    "medium": "Podcast",
+    "categoryDe": "Gesellschaft",
+    "categoryEn": "Society",
+    "daily": [
+      19000,
+      21000,
+      22000,
+      24000,
+      26000,
+      28000
+    ]
+  },
+  {
+    "id": 8,
+    "de": "Sport am Wochenende",
+    "en": "Weekend Sports",
+    "medium": "Radio",
+    "categoryDe": "Sport",
+    "categoryEn": "Sports",
+    "daily": [
+      34000,
+      36000,
+      35000,
+      39000,
+      41000,
+      44000
+    ]
+  },
+  {
+    "id": 9,
+    "de": "Kultur am Sonntag",
+    "en": "Sunday Culture",
+    "medium": "TV",
+    "categoryDe": "Kultur",
+    "categoryEn": "Culture",
+    "daily": [
+      52000,
+      55000,
+      53000,
+      58000,
+      61000,
+      65000
+    ]
+  },
+  {
+    "id": 10,
+    "de": "Musik für unterwegs",
+    "en": "Music on the Move",
+    "medium": "Radio",
+    "categoryDe": "Musik",
+    "categoryEn": "Music",
+    "daily": [
+      62000,
+      64000,
+      61000,
+      60000,
+      59000,
+      58000
+    ]
+  },
+  {
+    "id": 11,
+    "de": "Grüne Zukunft",
+    "en": "Green Future",
+    "medium": "Podcast",
+    "categoryDe": "Umwelt",
+    "categoryEn": "Environment",
+    "daily": [
+      12000,
+      15000,
+      18000,
+      23000,
+      29000,
+      36000
+    ]
+  },
+  {
+    "id": 12,
+    "de": "Wirtschaft verstehen",
+    "en": "Understanding Business",
+    "medium": "Podcast",
+    "categoryDe": "Wirtschaft",
+    "categoryEn": "Business",
+    "daily": [
+      31000,
+      32000,
+      30000,
+      34000,
+      33000,
+      35000
+    ]
+  }
+]
